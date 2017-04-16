@@ -1,0 +1,45 @@
+# ----- REMOVE LINES ABOVE HERE --------------------------
+#
+# This license is valid from Sat Apr 15 11:17:22 UTC 2017.
+#
+# This is license NODELOCKED to HOSTID=ANY;
+# there is no need to run lmgrd for this license.
+#
+#
+# This is a permanent license generated on Sat Apr 15 11:17:22 UTC 2017
+INCREMENT SDK xilinxd 2018.04 permanent uncounted 611ED7DD3B7A \
+VENDOR_STRING=leontina@,SDK,software,permanent,_211341880_0_0_266 \
+HOSTID=ANY ISSUER="Xilinx Inc" START=15-Apr-2017 TS_OK
+#
+# This is a permanent license generated on Sat Apr 15 11:17:22 UTC 2017
+INCREMENT Analyzer xilinxd 2018.04 permanent uncounted 664E40DF0384 \
+VENDOR_STRING=leontina@,Analyzer,software,permanent,_211341880_0_0_327 \
+HOSTID=ANY ISSUER="Xilinx Inc" START=15-Apr-2017 TS_OK
+#
+# This is a permanent license generated on Sat Apr 15 11:17:22 UTC 2017
+INCREMENT HLS xilinxd 2018.04 permanent uncounted E1C4A038E72E \
+VENDOR_STRING=leontina@,HLS,software,permanent,_211341880_0_0_842 \
+HOSTID=ANY ISSUER="Xilinx Inc" START=15-Apr-2017 TS_OK
+#
+# This is a permanent license generated on Sat Apr 15 11:17:22 UTC 2017
+INCREMENT V_WebPACK xilinxd 2018.04 permanent uncounted F9FA9590873A \
+VENDOR_STRING=leontina@,V_WebPACK,software,permanent,_211341880_0_0_602 \
+HOSTID=ANY ISSUER="Xilinx Inc" START=15-Apr-2017 TS_OK
+#
+# This is a permanent license generated on Sat Apr 15 11:17:22 UTC 2017
+INCREMENT ISE_WebPACK xilinxd 2018.04 permanent uncounted \
+06656D92CFA0 \
+VENDOR_STRING=leontina@,ISE_WebPACK,software,permanent,_211341880_0_0_532 \
+HOSTID=ANY ISSUER="Xilinx Inc" START=15-Apr-2017 TS_OK
+#
+#
+# ----------------------------------------------------------------------
+#  The following PACKAGE definition is a REQUIRED part of this license:
+#
+PACKAGE ISE_WebPACK xilinxd 2018.04 188268F149C1 COMPONENTS="SDK \
+ChipScopePro_SIOTK ChipscopePro WebPACK XC7Z010 XC7Z030 HLS \
+xps_tdp XC7Z020 PlanAhead" OPTIONS=SUITE
+#
+# ------------------------------------------------------------------------------
+#
+# ----- REMOVE LINES BELOW HERE --------------------------
